@@ -4,15 +4,11 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-[简体中文](https://github.com/Direct-A/medLabPlot/blob/master/README_zh.md) | [English](https://github.com/Direct-A/medLabPlot/blob/master/README.md)
+绘制医学实验数据统计图的 R 包。
 
-The goal of medLabPlot is to ...
+## 为什么会需要这样一个包
 
-A R package to draw plot of medical experiment data.
-
-## Why You Need This Package?
-
-- Use ggplot2 may needs much others theme changes, it is so boring.
+- ggplot2 绘制图像可能需要各种调整，相对繁杂而且这个过程也挺无聊的。
 - Use Graphpad prism need you to by a lisence, and make style changes are so terrible (the programme is responce slowly).
 
 So, this package birthed.
